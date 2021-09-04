@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(yellow,orange,blue,blanchedalmond) 
+}
+.heading{
+    font-size: 25px;
+}
+#camera,#result{
+    width: 350px;
+    height: 300px;
+    border:2px dashed blue;
+    
+}
